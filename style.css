@@ -1,0 +1,58 @@
+header{
+	float :left;
+}
+
+#title{
+	float: left;
+	width: 55% ;
+	text-align: center;
+}
+
+#names{
+	float:right;
+    width: 40% ;
+    margin-top: 20px;
+    margin-right: 10px;
+	font-size: 75%;
+	text-align: left;
+}
+
+#cookieIMG{
+	max-width: 55%;
+ 	height: auto;
+ 	float: left;
+}
+
+#basicInfo{
+	float: left;
+	text-align: left;
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+#notes{
+	margin-top: 35px;
+	clear: both;
+	
+}
+
+#ingredients{
+	float: left;
+	width: 45% ;
+margin-left: 10px;
+
+}
+
+#directions{
+	float: right;
+	width: 50% ;
+}
+
+footer{
+	clear: both ;
+}
+
+hr{
+	clear: both;
+	margin-top: 10px;
+}
